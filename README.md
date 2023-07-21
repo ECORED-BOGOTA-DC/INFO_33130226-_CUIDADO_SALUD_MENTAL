@@ -1,7 +1,7 @@
-# **Educación para la salud en contextos de las rutas integrales de atención en salud**
+# **Cuidado de la salud mental en los entornos de vida**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-bogota-dc.github.io/INFO_EDUCACION_SALUD_CONTEXTO/](https://ecored-bogota-dc.github.io/INFO_EDUCACION_SALUD_CONTEXTO/)
+[https://ecored-bogota-dc.github.io/INFO_33130217_ENTORNOS_SALUDABLES/](https://ecored-bogota-dc.github.io/INFO_33130217_ENTORNOS_SALUDABLES/)
 
 #
